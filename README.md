@@ -135,3 +135,4 @@ repository>/lite/examples/object_detection/android/app/src/main/assets/detect.tf
 _Please do not delete the assets folder content_. If you explicitly deleted the
 files, then please choose *Build*->*Rebuild* from menu to re-download the
 deleted model files into assets folder.
+# object-detection-with-audio
